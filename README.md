@@ -71,7 +71,7 @@ This project dives into the career statistics of **Virat Kohli**, one of the mos
 
 Have feedback, ideas, or want to collaborate?
 
-- 📧 Email: ashishjha1304@gmail.com  
+- 📧 Email: ashishjha1304@outlook.com  
 - 🔗 LinkedIn: [https://www.linkedin.com/in/ashishjha1304](https://www.linkedin.com/in/ashishjha1304)
 
 ---
